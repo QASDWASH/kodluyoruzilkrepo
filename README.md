@@ -5,8 +5,8 @@ bu repo [kodluyoruz] (https://kodluyoruz.org) Front-end eğitiminde oluşturduğ
 
 öncelikle projeyi cloneleyin. (buraya sizin reponuzdan attığınız link gelecek)
 
-,,,
-git clone https://github.com/QASDWASH/kodluyoruzilkrepo.git
+,,, pyhton
+print ("git clone https://github.com/QASDWASH/kodluyoruzilkrepo.git")
 ,,,
 
 
@@ -16,9 +16,9 @@ projeyi cloneledikten sonra Visual Studio Code programında açınız
 
 Linux için;
 
-,,,
-cd kodluyoruzilkrepo
-code.
+,,, pyhton
+print ("cd kodluyoruzilkrepo
+code.")
 ,,,
 
 # Contributing 
